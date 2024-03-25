@@ -1,4 +1,0 @@
-Pawel: W kebab rogalu to robimy?
-Dawid: No takie jajca zrobić
-Pawel: A to jak chcemy?
-Pan: Piszemy takie cos git add. i potem git status
